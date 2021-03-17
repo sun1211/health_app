@@ -1,6 +1,6 @@
-# Shoe Online Application
+# Health Application
 
-Shoe Online Application is a demo UI
+Health Application is a demo UI
 
 ## Installation
 
